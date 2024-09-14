@@ -33,3 +33,27 @@ h3 {
     border-radius: 5px;
     border: 4px solid #000000;
 }
+
+.container1 {
+    text-align: left;
+    background-color: #ffffff;
+    margin-top: 0px;
+    border-radius: 5px;
+    border: 4px solid #000000;
+    padding: 5px;
+}
+
+.paragraph1 {
+    padding: 20px;
+}
+
+.aside1 {
+    display: inline;
+    float: left;
+    width: 15%;
+    padding-left: 15px;
+    margin-left: 15px;
+    font-style: italic;
+    text-align: left;
+    background-color: lightgray;
+}
