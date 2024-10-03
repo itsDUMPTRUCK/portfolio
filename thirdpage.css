@@ -1,0 +1,30 @@
+a:link,
+a:visited {
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: white;
+    border: thin white solid;
+    color: black;
+    display: inline-block;
+    min-width: 100px;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 0;
+}
+
+.btn-primary:hover {
+    background-color: black;
+    border: thin black solid;
+    color: white;
+}
+
+.btn-primary:hover * {
+    color: white;
+}
