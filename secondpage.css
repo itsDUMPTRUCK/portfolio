@@ -83,6 +83,14 @@ a:visited {
     padding: 0 20px 0 20px;
 }
 
+.image1,
+.image2 {
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+}
+
 .aside1 {
     display: inline;
     float: left;
